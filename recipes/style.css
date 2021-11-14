@@ -1,0 +1,17 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+    background: #f5f0f0f1;
+    margin: 10px 25px 10px 25px;
+}
+
+h1, .center {
+    text-align: center;
+}
+
+.pic-size {
+    height: 350px;
+}
+
+button {
+    border-color: black;
+}
